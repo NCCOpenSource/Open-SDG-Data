@@ -1,1 +1,31 @@
-Year,Value
+Year,Subject,Sex,Unit measure,Unit multiplier,Observation status,Units,Value
+2017,Key Stage 1 (%),Reading,,Percentage (%),Units,74,Undefined
+2017,Key Stage 1 (%),Reading,Boys,Percentage (%),Units,71,Undefined
+2017,Key Stage 1 (%),Reading,Girls,Percentage (%),Units,77,Undefined
+2017,Key Stage 1 (%),Maths,,Percentage (%),Units,75,Undefined
+2017,Key Stage 1 (%),Maths,Boys,Percentage (%),Units,74,Undefined
+2017,Key Stage 1 (%),Maths,Girls,Percentage (%),Units,76,Undefined
+2018,Key Stage 1 (%),Reading,,Percentage (%),Units,76,Undefined
+2018,Key Stage 1 (%),Reading,Boys,Percentage (%),Units,72,Undefined
+2018,Key Stage 1 (%),Reading,Girls,Percentage (%),Units,80,Undefined
+2018,Key Stage 1 (%),Maths,,Percentage (%),Units,76,Undefined
+2018,Key Stage 1 (%),Maths,Boys,Percentage (%),Units,76,Undefined
+2018,Key Stage 1 (%),Maths,Girls,Percentage (%),Units,77,Undefined
+2019,Key Stage 1 (%),Reading,,Percentage (%),Units,75,Undefined
+2019,Key Stage 1 (%),Reading,Boys,Percentage (%),Units,72,Undefined
+2019,Key Stage 1 (%),Reading,Girls,Percentage (%),Units,78,Undefined
+2019,Key Stage 1 (%),Maths,,Percentage (%),Units,76,Undefined
+2019,Key Stage 1 (%),Maths,Boys,Percentage (%),Units,74,Undefined
+2019,Key Stage 1 (%),Maths,Girls,Percentage (%),Units,77,Undefined
+2017,Key Stage 2 (%),Reading,,Percentage (%),Units,72,Undefined
+2017,Key Stage 2 (%),Reading,Boys,Percentage (%),Units,70,Undefined
+2017,Key Stage 2 (%),Reading,Girls,Percentage (%),Units,76,Undefined
+2017,Key Stage 2 (%),Maths,,Percentage (%),Units,79,Undefined
+2017,Key Stage 2 (%),Maths,Boys,Percentage (%),Units,78,Undefined
+2017,Key Stage 2 (%),Maths,Girls,Percentage (%),Units,79,Undefined
+2018,Key Stage 2 (%),Reading,,Percentage (%),Units,78,Undefined
+2018,Key Stage 2 (%),Reading,Boys,Percentage (%),Units,76,Undefined
+2018,Key Stage 2 (%),Reading,Girls,Percentage (%),Units,81,Undefined
+2018,Key Stage 2 (%),Maths,,Percentage (%),Units,80,Undefined
+2018,Key Stage 2 (%),Maths,Boys,Percentage (%),Units,79,Undefined
+2018,Key Stage 2 (%),Maths,Girls,Percentage (%),Units,82,Undefined
